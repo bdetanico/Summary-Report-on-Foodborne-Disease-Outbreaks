@@ -1,5 +1,7 @@
 # Summary Report on Foodborne Disease Outbreaks
 
+<a href="https://bdetanico.github.io/Summary-Report-on-Foodborne-Disease-Outbreaks/Summary-Report-on-Foodborne-Disease-Outbreaks.html">Project Link</a>
+
 A foodborne disease outbreak is defined as two or more cases of similar illnesses caused by the same agent (e.g., a toxin, virus or bacteria), which are linked to the same food source. The Centers for Disease Control and Prevention (CDC) from USA estimates that each year roughly 1 in 6 Americans (or 48 million people) get sick, 128,000 are hospitalized and 3,000 die of foodborne diseases. However, only a small percentage of those cases are related to a foodborne disease outbreak. Additionally, **it is thought that the number of foodborne illnesses reported to the health department is much less than the actual number of illnesses that occur every year** (http://www.vdh.virginia.gov/environmental-health/food-safety-in-virginia/foodborne-diseases-and-outbreaks/foodborne-outbreaks/).
 
 The collection of data on foodborne outbreaks is imperative to identify the pathogen and the food vehicle involved, providing relevant information to monitor the prevalence of foodborne disease. In addition, such data contribute to evaluate trends and can provide the basis for regulatory changes and public health actions to improve food safety and reduce illness and death caused by foodborne diseases.
